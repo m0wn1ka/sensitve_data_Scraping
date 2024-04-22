@@ -1,0 +1,33 @@
+{
+     "url_scan_results": {
+          "url": "https://jntuh.ac.in/",
+          "domain": "jntuh.ac.in",
+          "subdomains": [
+               {
+                    "subdomain": "recruitment.jntuh.ac.in",
+                    "webpages": []
+               },
+               {
+                    "subdomain": "mail.doa.jntuh.ac.in",
+                    "webpages": [
+                         {
+                              "page_url": "https://mail.doa.jntuh.ac.in",
+                              "regex_filter_output": {
+                                   "email_match": [
+                                        "dap@jntuh.ac.in"
+                                   ],
+                                   "phone_match": []
+                              }
+                         },
+                         {
+                              "page_url": "https://doa.jntuh.ac.in/new/assets/js/counterup.min.js",
+                              "regex_filter_output": {
+                                   "email_match": [],
+                                   "phone_match": []
+                              }
+                         }
+                    ]
+               }
+          ]
+     }
+}

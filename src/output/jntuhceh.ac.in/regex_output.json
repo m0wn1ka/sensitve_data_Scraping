@@ -1,0 +1,17 @@
+{
+     "url_scan_results": {
+          "url": "https://jntuhceh.ac.in/",
+          "domain": "jntuhceh.ac.in",
+          "combinedRegexOutput": {
+               "email_addresses": [
+                    [
+                         "dap@jntuh.ac.in"
+                    ],
+                    []
+               ],
+               "phones": [
+                    []
+               ]
+          }
+     }
+}

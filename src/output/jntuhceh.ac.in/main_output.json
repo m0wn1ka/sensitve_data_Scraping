@@ -1,0 +1,33 @@
+{
+     "url_scan_results": {
+          "url": "https://jntuhceh.ac.in/",
+          "domain": "jntuhceh.ac.in",
+          "subdomains": [
+               {
+                    "subdomain": "www.exams.jntuhceh.ac.in",
+                    "webpages": []
+               },
+               {
+                    "subdomain": "www.sis.jntuhceh.ac.in",
+                    "webpages": [
+                         {
+                              "page_url": "https://www.sis.jntuhceh.ac.in",
+                              "regex_filter_output": {
+                                   "email_match": [
+                                        "dap@jntuh.ac.in"
+                                   ],
+                                   "phone_match": []
+                              }
+                         },
+                         {
+                              "page_url": "https://sis.jntuhceh.ac.in/student/new/assets/js/jquery.sticky.js",
+                              "regex_filter_output": {
+                                   "email_match": [],
+                                   "phone_match": []
+                              }
+                         }
+                    ]
+               }
+          ]
+     }
+}
